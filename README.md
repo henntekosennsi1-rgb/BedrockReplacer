@@ -1,4 +1,4 @@
-# BedrockReplacer
+# 岩盤置換プラグイン
 
 岩盤を平坦化して洞窟を埋めるMinecraftプラグイン
 
